@@ -1,5 +1,5 @@
 
-# Receiver-Sensitivity
+# EXP 10 Receiver-Sensitivity
 # Optical Receiver Sensitivity Analysis
 
 ## AIM
@@ -72,3 +72,8 @@ Your report should include:
 - Discussion of differences between analytical and simulation results.  
 
 ---
+## RESULT
+
+<img width="1601" height="851" alt="image" src="https://github.com/user-attachments/assets/47cb0bdd-feac-49b9-bb5c-b5f2dc598cae" />
+
+<img width="1280" height="526" alt="image" src="https://github.com/user-attachments/assets/c10ef651-11ad-4268-ba51-886b031bf0a5" />
